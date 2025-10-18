@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpTasks": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

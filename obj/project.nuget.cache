@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "39ZBMpF0m90=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhanu\\source\\repos\\Tasks\\CSharpTasks\\CSharpTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhanu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
