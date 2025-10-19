@@ -12,3 +12,4 @@ C:\Users\dhanu\source\repos\Tasks\CSharpTasks\obj\Debug\net8.0\refint\CSharpTask
 C:\Users\dhanu\source\repos\Tasks\CSharpTasks\obj\Debug\net8.0\CSharpTasks.pdb
 C:\Users\dhanu\source\repos\Tasks\CSharpTasks\obj\Debug\net8.0\CSharpTasks.genruntimeconfig.cache
 C:\Users\dhanu\source\repos\Tasks\CSharpTasks\obj\Debug\net8.0\ref\CSharpTasks.dll
+C:\Users\dhanu\source\repos\Tasks\CSharpTasks\obj\Debug\net8.0\CSharpTasks.sourcelink.json
